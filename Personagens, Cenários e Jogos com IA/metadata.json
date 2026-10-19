@@ -1,0 +1,6 @@
+{
+  "name": "As Aventuras de Nina",
+  "description": "Jogo de plataforma 2D com física, inimigos em patrulha, coleta de remédios e câmera com parallax em 3 camadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
