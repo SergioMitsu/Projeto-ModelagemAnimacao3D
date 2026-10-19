@@ -5,6 +5,7 @@ Dra. Nina e A Busca Pelo Medicamento é um jogo de plataforma 2D em que a protag
 O objetivo é coletar todos os 10 medicamentos espalhados pelo mapa e neutralizar os inimigos patrulheiros utilizando a tecla de ataque.
 Caso colida com um inimigo sem atacar, Nina perde 1 de suas 3 vidas e retorna ao ponto inicial, encerrando a partida se as vidas se esgotarem.
 
+https://ai.studio/apps/8014c5d5-70ec-44a7-b52d-0e058b92cbf6
 ---
 
 ## Como Executar
